@@ -1,6 +1,6 @@
 # BeeSmart
 
-This project was developed for the Interação Pessoa-Computador (Human-Computer Interaction) 2024-2025 course.
+This project was developed for the Interação Pessoa-Computador (Human-Computer Interaction) 2024-2025 course. This README file is just a summary of the whole project, for more information check out the oficial reports of phases [I](ipc_report.pdf) and [II](IPC_Report_2.pdf).
 
 ## Phase I – User and Task Analysis
 
